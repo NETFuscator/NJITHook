@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29424.173
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NJITHook", "NJITHook\NJITHook.csproj", "{21CA4336-E439-44FD-9B50-2DDD34078C18}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{21CA4336-E439-44FD-9B50-2DDD34078C18}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{21CA4336-E439-44FD-9B50-2DDD34078C18}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{21CA4336-E439-44FD-9B50-2DDD34078C18}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{21CA4336-E439-44FD-9B50-2DDD34078C18}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {57C05AEF-AB60-4A4F-BCF8-41D8729CD756}
+	EndGlobalSection
+EndGlobal
